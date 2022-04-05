@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-display-cards/static/css/main.9ad69a38.css",
-    "main.js": "/react-display-cards/static/js/main.dc2d165f.js",
-    "static/js/787.d42007c4.chunk.js": "/react-display-cards/static/js/787.d42007c4.chunk.js",
-    "index.html": "/react-display-cards/index.html",
-    "main.9ad69a38.css.map": "/react-display-cards/static/css/main.9ad69a38.css.map",
-    "main.dc2d165f.js.map": "/react-display-cards/static/js/main.dc2d165f.js.map",
-    "787.d42007c4.chunk.js.map": "/react-display-cards/static/js/787.d42007c4.chunk.js.map"
+    "main.css": "/demo_react/static/css/main.9ad69a38.css",
+    "main.js": "/demo_react/static/js/main.d5157f8d.js",
+    "static/js/787.d42007c4.chunk.js": "/demo_react/static/js/787.d42007c4.chunk.js",
+    "index.html": "/demo_react/index.html",
+    "main.9ad69a38.css.map": "/demo_react/static/css/main.9ad69a38.css.map",
+    "main.d5157f8d.js.map": "/demo_react/static/js/main.d5157f8d.js.map",
+    "787.d42007c4.chunk.js.map": "/demo_react/static/js/787.d42007c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9ad69a38.css",
-    "static/js/main.dc2d165f.js"
+    "static/js/main.d5157f8d.js"
   ]
 }
